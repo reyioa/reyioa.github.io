@@ -1,1 +1,14 @@
 
+body {
+  background-color: #404258;
+  height: 100%;
+}
+
+.blogpost {
+  background-color: #474E68;
+  margin-top: 25px;
+  min-height: 350px;
+  padding: 25px;
+  border-radius: 25px;
+  border: 2px solid #FFFFFF;
+}
